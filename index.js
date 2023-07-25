@@ -1,4 +1,4 @@
-// Initialize meeting
+// Initialize the meeting
 function initializeMeeting() {
   window.VideoSDK.config(TOKEN);
 
